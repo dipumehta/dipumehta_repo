@@ -8,7 +8,7 @@ variable "region" {
   description = "Region of AWS VPC"
 }
 variable "name" {
-  default     = "test_user"
+  default     = "demoadmin"
   type        = string
   description = "The name of the user"
 }
